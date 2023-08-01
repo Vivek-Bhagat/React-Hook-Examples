@@ -1,13 +1,15 @@
 
 import './App.css';
-import ClickCounter from './components/ClickCounter';
-import HooksCount from './components/HooksCount';
+import HooksCount1 from './components/HooksCount1';
+// import ClickCounter from './components/ClickCounter';
+// import HooksCount from './components/HooksCount';
 
 function App() {
   return (
     <div className="App">
-      <ClickCounter />
-      <HooksCount/>
+      {/* <ClickCounter />
+      <HooksCount/> */}
+      <HooksCount1/>
     </div>
   );
 }
