@@ -1,6 +1,7 @@
 
 import './App.css';
-import HooksCount1 from './components/HooksCount1';
+import HooksCounter2 from './components/HooksCounter2';
+// import HooksCount1 from './components/HooksCount1';
 // import ClickCounter from './components/ClickCounter';
 // import HooksCount from './components/HooksCount';
 
@@ -9,7 +10,8 @@ function App() {
     <div className="App">
       {/* <ClickCounter />
       <HooksCount/> */}
-      <HooksCount1/>
+      {/* <HooksCount1/> */}
+      <HooksCounter2/>
     </div>
   );
 }
