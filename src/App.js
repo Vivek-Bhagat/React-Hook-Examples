@@ -1,6 +1,7 @@
 
 import './App.css';
-import UseEffect1 from './components/UseEffect1';
+import UseEffect2 from './components/UseEffect2';
+// import UseEffect1 from './components/UseEffect1';
 // import TitleCounter from './components/TitleCounter';
 //import HooksCounter3 from './components/HooksCounter3';
 // import UseEffect from './components/UseEffect';
@@ -19,7 +20,8 @@ function App() {
       {/* <HooksCounter3/> */}
       {/* <UseEffect />
       <TitleCounter/> */}
-      <UseEffect1/>
+      {/* <UseEffect1/> */}
+      <UseEffect2/>
     </div>
   );
 }
